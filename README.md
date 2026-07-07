@@ -12,17 +12,17 @@ I'm a Full-Stack Developer who enjoys building projects that solve real-world pr
 
 ## Tools and Tech
 
-**Programming**
+##Programming
 •	 C++, Python, JavaScript
-**Web Development**
+##Web Development
 •	 HTML, CSS, Node.js, Express.js
-**App Development**
+##App Development
 •	 Flutter, Firebase 
-**Core Concepts**
+##Core Concepts
 •	 DSA, OOP, DBMS, Computer Networks
-**Tools & Platforms**
+##Tools & Platforms
 •	 Linux, Git, GitHub, Postman, Android Studio
-**Cybersecurity**
+##Cybersecurity
 •	 Web Security Testing, Vulnerability Assessment, Penetration Testing, TCP/IP Networking, Cryptography, Steganography, Packet Analysis (Wireshark), Burp Suite, Metasploit Framework
 
 ## Reach Me:
