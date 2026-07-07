@@ -1,4 +1,4 @@
-## Hey there!! ## ૮꒰ ˶• ༝ •˶꒱ა ❤︎
+## Hey there!!  ૮꒰ ˶• ༝ •˶꒱ა ❤︎
 
 I'm **Naureen**, a software engineer based in India.
 
